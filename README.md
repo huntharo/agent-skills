@@ -43,9 +43,7 @@ Screenshot:
 
 Searchable error snippet:
 
-```text
-Invalid 'input[0].content[2].image_url': Expected a base64-encoded data URL with an image MIME type (e.g. 'data:image/png;base64,aW1nIGJ5dGVzIGhlcmU='), but got empty base64-encoded bytes.
-```
+> Invalid `input[0].content[2].image_url`: Expected a base64-encoded data URL with an image MIME type (for example `data:image/png;base64,...`), but got empty base64-encoded bytes.
 
 Repo install:
 
