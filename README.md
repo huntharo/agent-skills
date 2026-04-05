@@ -39,7 +39,7 @@ Useful when Codex refuses to reopen a thread because an image attachment was rec
 
 Screenshot:
 
-`[placeholder: add screenshot here after upload]`
+<img width="991" height="334" alt="image" src="https://github.com/user-attachments/assets/36d2857e-4ea1-4130-96d2-1076db74deb3" />
 
 Searchable error snippet:
 
