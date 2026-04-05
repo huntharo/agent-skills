@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repair Codex Thread"
+  short_description: "Remove corrupt entries from broken threads"
+  default_prompt: "Use $repair-codex-thread to repair a broken Codex thread by GUID."
